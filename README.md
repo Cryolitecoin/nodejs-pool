@@ -242,10 +242,14 @@ The developers of the pool have not verified this, but based on our own usage on
 Developer Donations
 ===================
 If you'd like to make a one time donation, the addresses are as follows:
-* XMR - 472uwSQRraXF6ELji3g3ToTTcjsG7HbPF8mLFeaN1Wr2eMxkDN3UteyHGARWEmMvd3fnKMb59cyfzWJSoAFWga6GBsrag2n
-* ELECTRONEUM - etnjxu3nh241XPEJMrKPVT8FJV37HvUGWVrnxn76sUoF77mV1yDCS9PVzC5jKHDmrFRXpv5RSNmPgJdF8kDMsjwG2sG4cKYQNK
-* AEON - Wmswvbsac7eZ7pZEbey9nmgoZPjtwBAwRh7Qgm1xHVwF6hcnH43r2vX3hLTKARSrvtH8g4wJtEXS9V3Axz1Y2m8P2uqXEZi51
-* KARBO - KbEVYBQuApoMvRLpKGymFvA9wbdVDu9rtg69a5rBqKoAaagYhcaBYupf7bsDLyMQakD7M9jp23krPMYKQUy4GoqK7Q3njZ2 
+* XMR 
+472uwSQRraXF6ELji3g3ToTTcjsG7HbPF8mLFeaN1Wr2eMxkDN3UteyHGARWEmMvd3fnKMb59cyfzWJSoAFWga6GBsrag2n
+* ELECTRONEUM 
+etnjxu3nh241XPEJMrKPVT8FJV37HvUGWVrnxn76sUoF77mV1yDCS9PVzC5jKHDmrFRXpv5RSNmPgJdF8kDMsjwG2sG4cKYQNK
+* AEON 
+Wmswvbsac7eZ7pZEbey9nmgoZPjtwBAwRh7Qgm1xHVwF6hcnH43r2vX3hLTKARSrvtH8g4wJtEXS9V3Axz1Y2m8P2uqXEZi51
+* KARBO 
+KbEVYBQuApoMvRLpKGymFvA9wbdVDu9rtg69a5rBqKoAaagYhcaBYupf7bsDLyMQakD7M9jp23krPMYKQUy4GoqK7Q3njZ2 
 
 
 Credits
